@@ -4,7 +4,7 @@ const Error = () => {
   return (
     <div>
         <h1>
-            Bunday sahifa yo'q
+            Hali Internet magazin ishga tushirmadik
         </h1>
     </div>
   )
